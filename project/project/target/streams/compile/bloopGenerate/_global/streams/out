@@ -1,0 +1,4 @@
+[debug] [akka-quickstart-scala-build-build] Classpath dependencies List()
+[debug] [akka-quickstart-scala-build-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'akka-quickstart-scala-build-build' to '/Users/mac/Documents/Scala_project/akka-quickstart-scala/project/project/.bloop/akka-quickstart-scala-build-build.json'
+[success] Generated .bloop/akka-quickstart-scala-build-build.json
