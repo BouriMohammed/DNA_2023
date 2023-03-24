@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/mac/Documents/Scala_project/akka-quickstart-scala/src/main/scala/com/DNA/Day1/Part 2/Main_Part2.scala:2:16: not found: value ActorSystem[0m
+[0m[[0m[31merror[0m] [0m[0m  val system = ActorSystem("KeyValueStoreSystem")[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
