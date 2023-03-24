@@ -7,3 +7,5 @@ SLF4J: Ignoring binding found at [jar:file:/Users/mac/Library/Caches/Coursier/v1
 SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.03.24 19:24:41 INFO  time: initialize in 0.8s
 2023.03.24 19:24:44 WARN  Build server is not auto-connectable.
+mars 24, 2023 7:27:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
